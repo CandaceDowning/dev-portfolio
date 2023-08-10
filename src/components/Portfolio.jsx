@@ -48,7 +48,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       projectInfo:
         "Kephir coffee was designed to be a budget conscious  one page Wordpress and Woocommerce landing page to allow a small roastery in Ireland to sell their coffee online. In the initial stages of consulting the client stated that they wanted something clean and elegant and provided a logo they had already created. Using this logo I created a mood board to share with the client and ensure I was on the right track. Three final designs were presented via Figma, and the selection was made in the first round of presentations. Most assets were provided by the client, but I did some design work to create variations of the logo, and some decorative elements. The main challenge of this project was reappropriating the Woocommerce functionality to create product cards that could add items to the cart without refreshing the page. This required heavily customizing the Woocommerce functionality using JQuery and Ajax, and customization of the default Woocommerce theming. Bootstrap allowed for the quick development of a sleek layout, and reusable CSS class names were created for colors, and decorative elements. In addition to the one page shop/landing page, auxilliary pages were created to showcase the farms that provide the beans being roasted at Kephir using advanced custom fields so the client can edit and publish as they need.",
       client: "Kephir Coffee Roasters",
-      technologies: "Wordpress, Woocommerce, Php, Javascript, JQuery, Bootstrap, css",
+      technologies: "Wordpress, Woocommerce, Php, Javascript, JQuery, Bootstrap, CSS",
       industry: "Art & Design",
       date: "July 16, 2019",
       url: {
@@ -202,7 +202,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       projectInfo:
         "A student solo project. Rainbow-Gallery is a simple web application that utilizes the Unsplash.com API, and was my first student project. It was created in order to learn full CRUD functionality, and therefore does not utilize a database. The temporary nature of the information was utilized in concept development to make a comparison to the end product and the ephemeral nature of naturally occuring rainbows. The user can click colored buttons and a call is made to unsplash and a randomizing algorithm pulls one image from the results to display. Users can then save the current image by clicking the rainbow button. The images are then tagged with the color used for the query and stored in the server. In the gallery view the user has the ability to edit the color tag and delete the images.",
       client: "Student Solo Project",
-      technologies: "iReact, Axios, Express, HTML, Javascript, CSS",
+      technologies: "React, Axios, Express, HTML, Javascript, CSS",
       industry: "Art & Design",
       date: "July 16, 2019",
       url: {
