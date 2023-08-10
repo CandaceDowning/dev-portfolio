@@ -16,7 +16,7 @@ const Contact = ({ classicHeader, darkTheme }) => {
     emailjs
       .sendForm(
         "service_bm1i2vs",
-        "template_in4j5yj",
+        "template_zns7a7j",
         form.current,
         "9LwueAzr-HPpHmibe"
       )
