@@ -21,7 +21,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       projectInfo:
         "DFM Driveways and Remodels was created for a new construction company here in North Texas. After consulting with the clients, I developed a strategy to create a cost effective solution that would get a site up and running as quickly as possible without looking like a budget product. After some research I found a prebuilt Wordpress theme that was in their cost range, and began digging into the default elements of the theme. Taking screenshots from the demo site, I pulled every section into Figma and arranged them to suit our needs. Three layout options were presented, and a selection was made in the first round. While the theme came with many assets, the client still needed the creation of a logo, and some management and touching up of provided images. Copy was created from the client provided mission and vision statements they had previously drafted, and modified to maximize SEO potential and meet layout demands. This product has not yet launched, and is a work in progress, with just the final touches on copy and selection of a logo left to go. The site currently has a ‘coming soon’ splash page active, but depending on client participation the site should launch Sept 2023. Beyond launch the client has expressed interest in expanding the site to include a service area map, a portfolio of previous projects, integrated estimate generator, ecommerce, social media integration, and a homeowner educational blog.",
       client: "DFM Driveways and Remodels",
-      technologies: "Wordpress, Php, HTML, CSS, WPBakery",
+      technologies: "Wordpress, Php, HTML, CSS, WPBakery, Figma",
       industry: "Art & Design",
       date: "July 16, 2019",
       url: {
@@ -48,7 +48,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
       projectInfo:
         "Kephir coffee was designed to be a budget conscious  one page Wordpress and Woocommerce landing page to allow a small roastery in Ireland to sell their coffee online. In the initial stages of consulting the client stated that they wanted something clean and elegant and provided a logo they had already created. Using this logo I created a mood board to share with the client and ensure I was on the right track. Three final designs were presented via Figma, and the selection was made in the first round of presentations. Most assets were provided by the client, but I did some design work to create variations of the logo, and some decorative elements. The main challenge of this project was reappropriating the Woocommerce functionality to create product cards that could add items to the cart without refreshing the page. This required heavily customizing the Woocommerce functionality using JQuery and Ajax, and customization of the default Woocommerce theming. Bootstrap allowed for the quick development of a sleek layout, and reusable CSS class names were created for colors, and decorative elements. In addition to the one page shop/landing page, auxilliary pages were created to showcase the farms that provide the beans being roasted at Kephir using advanced custom fields so the client can edit and publish as they need.",
       client: "Kephir Coffee Roasters",
-      technologies: "Wordpress, Woocommerce, Php, Javascript, JQuery, Bootstrap, CSS",
+      technologies: "Wordpress, Woocommerce, Php, Javascript, JQuery, Bootstrap, CSS, Figma",
       industry: "Art & Design",
       date: "July 16, 2019",
       url: {
