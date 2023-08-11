@@ -1,7 +1,7 @@
 {
   "name": "candace-downing-dev-portfolio",
   "version": "0.1.0",
-  "homepage": "https://CandaceDowning.github.io/dev-portfolio",
+  "homepage": "https://candacedowning.dev/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
